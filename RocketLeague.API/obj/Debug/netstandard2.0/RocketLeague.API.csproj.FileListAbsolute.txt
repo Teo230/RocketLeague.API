@@ -1,0 +1,8 @@
+C:\Users\mftim\source\repos\RocketLeague\RocketLeague.API\obj\Debug\netstandard2.0\RocketLeague.API.AssemblyInfoInputs.cache
+C:\Users\mftim\source\repos\RocketLeague\RocketLeague.API\obj\Debug\netstandard2.0\RocketLeague.API.AssemblyInfo.cs
+C:\Users\mftim\source\repos\RocketLeague\RocketLeague.API\bin\Debug\netstandard2.0\RocketLeague.API.deps.json
+C:\Users\mftim\source\repos\RocketLeague\RocketLeague.API\bin\Debug\netstandard2.0\RocketLeague.API.dll
+C:\Users\mftim\source\repos\RocketLeague\RocketLeague.API\bin\Debug\netstandard2.0\RocketLeague.API.pdb
+C:\Users\mftim\source\repos\RocketLeague\RocketLeague.API\obj\Debug\netstandard2.0\RocketLeague.API.dll
+C:\Users\mftim\source\repos\RocketLeague\RocketLeague.API\obj\Debug\netstandard2.0\RocketLeague.API.pdb
+C:\Users\mftim\source\repos\RocketLeague\RocketLeague.API\obj\Debug\netstandard2.0\RocketLeague.API.csproj.CoreCompileInputs.cache
